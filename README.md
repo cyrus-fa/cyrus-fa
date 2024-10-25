@@ -12,8 +12,4 @@
 
 - **[Project](https://github.com/cyrus-fa/project):** DSCP
 
----
 
-### Contact
-- **Email:** -
-- **LinkedIn:** [linkedin.com/](https://linkedin.com/)
