@@ -1,6 +1,6 @@
-### Skills & Technologies
+### Skills
 
-- **Backend:** PHP, Laravel
-- **Frontend:** Tailwind CSS, Blade Templates
+- **Backend:** PHP, Laravel, Livewire
+- **Frontend:** Tailwind CSS, Blade Templates, Alpine.js
 - **Database:** MySQL, SQLite
 - **Testing:** PHPUnit, Pest
